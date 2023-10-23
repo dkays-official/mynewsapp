@@ -1,1 +1,1 @@
-# mynewsapp1
+# mynewsapp
